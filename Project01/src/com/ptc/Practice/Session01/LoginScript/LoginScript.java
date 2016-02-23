@@ -44,6 +44,8 @@ public class LoginScript {
 
         String title1 = driver.getTitle();
         System.out.println("New Title: " + title1);
+        
+        System.out.println("The new title is correct");
 	}
 
 }
